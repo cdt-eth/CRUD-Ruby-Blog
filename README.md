@@ -29,3 +29,4 @@ My first simple Rails app. It's a "blog," and I built it to simply explore Ruby/
 - Rails
 - SQLite 3
 - Postgres
+- Heroku
